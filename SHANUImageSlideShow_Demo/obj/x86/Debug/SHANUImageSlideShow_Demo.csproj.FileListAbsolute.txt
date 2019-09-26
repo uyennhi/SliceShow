@@ -1,0 +1,37 @@
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\bin\Debug\SHANUImageSlideShow_Demo.exe
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\bin\Debug\SHANUImageSlideShow_Demo.pdb
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.frmShanuSlideShow.resources
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.Properties.Resources.resources
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.exe
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.pdb
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\bin\Debug\ShanuImageSlideShow_Cntrl.pdb
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.1\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.exe
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.1\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.pdb
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.exe
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.pdb
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\bin\Debug\SHANUImageSlideShow_Demo.exe
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\bin\Debug\SHANUImageSlideShow_Demo.pdb
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\bin\Debug\ShanuImageSlideShow_Cntrl.dll
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\bin\Debug\ShanuImageSlideShow_Cntrl.pdb
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\Interop.WMPLib.dll
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.csproj.ResolveComReference.cache
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.frmShanuSlideShow.resources
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.Properties.Resources.resources
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Shanu\Shanu Projects\Articles\SHANUImageSlideShow\SHANUImageSlideShow_Version1.2\SHANUImageSlideShow_Demo\SHANUImageSlideShow_Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\bin\Debug\SHANUImageSlideShow_Demo.exe
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\bin\Debug\SHANUImageSlideShow_Demo.pdb
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\bin\Debug\ShanuImageSlideShow_Cntrl.pdb
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.csprojAssemblyReference.cache
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.csproj.ResolveComReference.cache
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.frmShanuSlideShow.resources
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.Properties.Resources.resources
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.csproj.GenerateResource.cache
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.csproj.CopyComplete
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.exe
+C:\Users\uyennhi\Downloads\Compressed\C#\SHANUImageSlideShow_Demo\obj\x86\Debug\SHANUImageSlideShow_Demo.pdb

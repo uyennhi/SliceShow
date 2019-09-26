@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShanuDataSource>
+  <ItemMaster>
+    <itemCode>ITEM001</itemCode>
+    <ItemName>Coke</ItemName>
+    <Price>100</Price>
+  </ItemMaster>
+  <ItemMaster>
+    <itemCode>ITEM002</itemCode>
+    <ItemName>Burger</ItemName>
+    <Price>200</Price>
+  </ItemMaster>
+  <ItemMaster>
+    <itemCode>ITEM003</itemCode>
+    <ItemName>IceCoffee</ItemName>
+    <Price>80</Price>
+  </ItemMaster>
+  <ItemMaster>
+    <itemCode>ITEM004</itemCode>
+    <ItemName>Pizza</ItemName>
+    <Price>250</Price>
+  </ItemMaster>
+  <ItemMaster>
+    <itemCode>ITEM005</itemCode>
+    <ItemName>Cake</ItemName>
+    <Price>100</Price>
+  </ItemMaster>
+  </ShanuDataSource>
